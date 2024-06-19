@@ -1,4 +1,4 @@
-# pulsar-ide-rust
+# IDE-Rust
 
 Rust language support for Pulsar Edit, powered by [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer).
 
@@ -18,10 +18,10 @@ Rust language support for Pulsar Edit, powered by [rust-analyzer](https://github
 
 ## Install
 
-Install from Settings view by searching for `pulsar-ide-rust`, or with the command line:
+Install from Settings view by searching for `ide-rust`, or with the command line:
 
 ```
-$ ppm install pulsar-ide-rust
+$ ppm install ide-rust
 ```
 
 ###
@@ -78,7 +78,7 @@ Refer to the rust-analyzer [User Manual](https://rust-analyzer.github.io/manual.
 
 ## Commands
 
-- `pulsar-ide-rust:restart-all-language-servers` Restart all currently active Rls processes
+- `ide-rust:restart-all-language-servers` Restart all currently active Rls processes
 
 ## Screenshots
 

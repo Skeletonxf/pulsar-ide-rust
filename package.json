@@ -1,5 +1,5 @@
 {
-  "name": "pulsar-ide-rust",
+  "name": "ide-rust",
   "main": "./lib/index",
   "version": "1.2.0",
   "description": "Rust language support for Pulsar Edit",
