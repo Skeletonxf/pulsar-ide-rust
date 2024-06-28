@@ -17,7 +17,7 @@
     "atom": ">=1.33.0"
   },
   "dependencies": {
-    "atom-languageclient": "^1.14.1",
+    "@savetheclocktower/atom-languageclient": "^1.17.11",
     "atom-package-deps": "^8.0.0",
     "toml": "^3.0.0",
     "underscore-plus": "^1.7.0"
